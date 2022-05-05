@@ -3,6 +3,7 @@
 ## Colab Code
 - **Red Wine [Colab](https://colab.research.google.com/drive/1EAKycJeLX5Ak5KGElpAwQzC6Q4OvYbv_?usp=sharing)**
 - **White Wine [Colab](https://colab.research.google.com/drive/1jlC0uivU32PAATmLi_dagJ18VRDv6hgi?usp=sharing)**
+- **Demo [Colab](https://colab.research.google.com/drive/1MhPEsA5hiRjCMtnC3-uIEyqN6nXRcGsJ?usp=sharing)**
 ## Dataset
 - **White Wine [Dataset](https://www.kaggle.com/datasets/brendan45774/wine-quality?select=winequality-white.csv)**
 - **Red Wine [Dataset](https://www.kaggle.com/datasets/brendan45774/wine-quality?select=winequality-red.csv)**
